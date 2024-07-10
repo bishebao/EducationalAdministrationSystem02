@@ -1,0 +1,2 @@
+# EducationalAdministrationSystem02
+ 基于SpringBoot Vue教务管理系统
